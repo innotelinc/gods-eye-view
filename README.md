@@ -2,6 +2,10 @@
 
 # 🌐 God's Eye View
 
+[![CI](https://github.com/innotelinc/gods-eye-view/actions/workflows/ci.yml/badge.svg)](https://github.com/innotelinc/gods-eye-view/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 ### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.
 
 Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent.
@@ -37,6 +41,18 @@ Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic,
 </div>
 
 ---
+
+## Why God's Eye View
+
+| Problem | Answer |
+| --- | --- |
+| Public data is scattered across a dozen feeds. | One globe places each feed where it actually is. |
+| A map is not a picture of the world now. | Live positions and events update the scene as they arrive. |
+| Operating it needs both hands. | A realtime voice agent changes layers and finds places. |
+
+Its place in the stack is [docs/stack.md](docs/stack.md); the canonical
+definition of the shared layers is the
+[Innotel Platform Stack](https://github.com/innotelinc/innotel-platform-stack).
 
 ## 🌍 Why This Exists
 
@@ -508,3 +524,8 @@ One heads-up from the inside: build in this space for a week and you learn that 
 **🌐 God's Eye View. No place left behind.**
 
 </div>
+
+## License
+
+MIT — see [LICENSE](LICENSE). Copyright © 2026 Innotel Inc. and the
+upstream authors. Upstream material remains under its own licence.
